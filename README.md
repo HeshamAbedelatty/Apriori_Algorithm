@@ -15,6 +15,12 @@ The objective is to discover associations between items in the transactions.
 1. Your program should have a user-friendly interface.
 2. The interface should allow the user to select the percentage of data to be analyzed from the input file. For example, if the file contains 100 records and the user wants to analyze 70% of the data, the analysis should be performed on 70 records only.
 3. Write a program in your preferred programming language with the following specifications:
+
+## UI images
+![UI1](UI1.jpg)
+![UI2](UI2)
+
+
    - Inputs:
      - Excel, text, or CSV file.
      - Minimum support count.
